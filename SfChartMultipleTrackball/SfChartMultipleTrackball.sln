@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfChartMultipleTrackball", "SfChartMultipleTrackball\SfChartMultipleTrackball.csproj", "{CBF9706A-F6FF-4499-9F64-FF40F6161610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF9706A-F6FF-4499-9F64-FF40F6161610}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC69233F-B47F-4D44-99CC-784336326A81}
+	EndGlobalSection
+EndGlobal
